@@ -12,8 +12,4 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.24.2-preview.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\semester-3-gruppe-4.ServiceDefaults\semester-3-gruppe-4.ServiceDefaults.csproj" />
-  </ItemGroup>
-
 </Project>

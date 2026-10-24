@@ -2,7 +2,5 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
   </Folder>
-  <Project Path="../semester-3-gruppe-4.AppHost/semester-3-gruppe-4.AppHost.csproj" />
-  <Project Path="../semester-3-gruppe-4.ServiceDefaults/semester-3-gruppe-4.ServiceDefaults.csproj" />
   <Project Path="Heimevernet_FACHAP/Heimevernet_FACHAP.csproj" />
 </Solution>
