@@ -27,10 +27,10 @@ jobs:
             10.0.x
 
       - name: Restore
-        run: dotnet restore HV_prosjekt.slnx 
+        run: dotnet restore semester-3-gruppe-4.slnx 
 
       - name: Build
-        run: dotnet build HV_prosjekt.slnx
+        run: dotnet build semester-3-gruppe-4.slnx
 
       - name: Test
-        run: dotnet test HV_prosjekt.slnx --configuration Release --no-build --no-restore --verbosity normal
+        run: dotnet test semester-3-gruppe-4.slnx --configuration Release --no-build --no-restore --verbosity normal
